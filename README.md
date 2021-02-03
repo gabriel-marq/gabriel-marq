@@ -1,6 +1,6 @@
 # Hello There! <img src="https://emojis.slackmojis.com/emojis/images/1491391093/1994/spocker.png?1491391093" width="40">
 
-<img align="right" src="./computer-illustration.png"/>
+<img align="right" src="img/computer-illustration.png"/>
 
 ### Welcome to my Github profile
 
