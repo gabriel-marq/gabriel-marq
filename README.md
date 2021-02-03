@@ -5,7 +5,9 @@
 ### Welcome to my Github profile
 
 <p>
- I'm Gabriel, Bachelor in Petroleum Engineering, and Front-end student from <b>Brazil</b> <img width="18" src="https://www.flaticon.com/svg/vstatic/svg/197/197386.svg?token=exp=1612388889~hmac=c587d5a7e04e33aac1c9e7cd29670cdf" alt="Brazil"/>.
+ 
+ I'm Gabriel, Bachelor in Petroleum Engineering, and Front-end student from <b>Brazil</b> <img width="18" src="img/brazil.png"/>.
+
 </p>
 
 
