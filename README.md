@@ -33,7 +33,7 @@
 </p>
 
 
-## What I studing now:
+## What I studying now:
 <p align="center">
 <img alt="HTML5" title="HTML5" src="./img/html_dark.png" width="110"/>
 
